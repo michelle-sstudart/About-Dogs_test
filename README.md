@@ -18,6 +18,7 @@ Espécie: Canis lupus familiaris1.
 Origem dos Cachorros:
 Estima-se que os primeiros cachorros surgiram há cerca de 15.000 anos na Ásia, descendentes do lobo cinzento.
 O nome científico do cachorro é Canis lupus familiaris, e apesar de semelhantes, cães e lobos são subespécies diferentes1.
+
 Características Físicas:
 Os cachorros são quadrúpedes com cauda e pelos em todo o corpo.
 Existem diversas raças, variando em tamanho, forma e cor.
