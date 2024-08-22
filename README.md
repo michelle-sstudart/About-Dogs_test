@@ -2,8 +2,7 @@
 Sobre Dogs e comportamentos
 
 Os cachorros são animais incríveis e têm uma grande diversidade de características. Aqui estão algumas informações breves sobre eles:
-
-![Imagem cachorro branco deitado com oculos de sol](https://thumbs.dreamstime.com/z/c%C3%A3o-muito-engra%C3%A7ado-41629814.jpg?ct=jpeg)
+![dogsorrindo](https://github.com/user-attachments/assets/f1244611-1d53-4beb-bed8-27536940e481)
 
 Taxonomia dos Cachorros:
 Domínio: Eukarya
@@ -26,4 +25,8 @@ Existem diversas raças, variando em tamanho, forma e cor.
 Curiosidades:
 O olfato dos cachorros é incrivelmente apurado, cerca de 1 milhão de vezes melhor que o dos humanos2.
 Existem mais de 400 raças de cachorro, cada uma com suas particularidades e personalidades3.
-<img src="https://cdn.verbub.com/images/nao-ha-dois-cachorros-com-as-mesmas-marcas-no-focinho-assim-como-391236.jpg" alt="Imagem focinho do cachorro com frase de humor">
+
+<p>align="center">
+[dogsfocinho (2)](https://github.com/user-attachments/assets/e070a8ac-1d3d-4cc8-80d4-b4126bb9beb6)
+
+</p>
