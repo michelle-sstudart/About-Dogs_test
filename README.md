@@ -26,8 +26,8 @@ Curiosidades:
 O olfato dos cachorros é incrivelmente apurado, cerca de 1 milhão de vezes melhor que o dos humanos2.
 Existem mais de 400 raças de cachorro, cada uma com suas particularidades e personalidades3.
 
-<div align="center">
-  <img src="[caminho/para/sua/imagem.png](https://github.com/user-attachments/assets/62bfe684-83bd-4c23-aa00-f6dda048c6b2)" alt="dogsfocinho (2)">
-</div>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/62bfe684-83bd-4c23-aa00-f6dda048c6b2" alt="dogsfocinho">
+</p>
 
 
