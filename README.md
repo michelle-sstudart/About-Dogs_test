@@ -22,7 +22,7 @@ Características Físicas:
 Os cachorros são quadrúpedes com cauda e pelos em todo o corpo.
 Existem diversas raças, variando em tamanho, forma e cor.
 
-# Curiosidades:
+## Curiosidades:
 O olfato dos cachorros é incrivelmente apurado, cerca de 1 milhão de vezes melhor que o dos humanos2.
 Existem mais de 400 raças de cachorro, cada uma com suas particularidades e personalidades3.
 
